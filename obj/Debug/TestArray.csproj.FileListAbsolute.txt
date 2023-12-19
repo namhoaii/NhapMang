@@ -1,0 +1,10 @@
+E:\winform_comai\TestArray\bin\Debug\TestArray.exe.config
+E:\winform_comai\TestArray\bin\Debug\TestArray.exe
+E:\winform_comai\TestArray\bin\Debug\TestArray.pdb
+E:\winform_comai\TestArray\obj\Debug\TestArray.csproj.AssemblyReference.cache
+E:\winform_comai\TestArray\obj\Debug\TestArray.Form1.resources
+E:\winform_comai\TestArray\obj\Debug\TestArray.Properties.Resources.resources
+E:\winform_comai\TestArray\obj\Debug\TestArray.csproj.GenerateResource.cache
+E:\winform_comai\TestArray\obj\Debug\TestArray.csproj.CoreCompileInputs.cache
+E:\winform_comai\TestArray\obj\Debug\TestArray.exe
+E:\winform_comai\TestArray\obj\Debug\TestArray.pdb
